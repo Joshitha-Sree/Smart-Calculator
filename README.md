@@ -19,6 +19,9 @@ A command-line calculator built using Python.
 ## Project Status
 
 🚧 Currently under development.
+## Screenshot
+
+![Home Screen](images/home_screen.png)
 
 ## Author
 
