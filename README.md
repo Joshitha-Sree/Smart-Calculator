@@ -25,4 +25,4 @@ A command-line calculator built using Python.
 
 ## Author
 
-Josh
+Joshitha sree

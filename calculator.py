@@ -1,6 +1,6 @@
 """
 Project: Smart Calculator
-Author: Josh
+Author: Joshitha sree
 Version: 1.0
 Description:
 A command-line calculator built using Python.
