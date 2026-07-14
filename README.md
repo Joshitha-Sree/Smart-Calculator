@@ -60,7 +60,7 @@ This repository represents the beginning of my long-term engineering portfolio.
 
 - Subtraction
 
-### X
+### ✖
 
 - Multiplication
 
@@ -271,33 +271,46 @@ A complete scientific calculator comparable to desktop calculator applications.
 
 # 📈 Project Roadmap
 
+```text
 Version 1.0
+██████████░░░░░░░░░░
 Basic Calculator
 
 ↓
 
 Version 2.0
+██████████████░░░░░░
 Scientific Functions
 
 ↓
 
 Version 3.0
+██████████████████░░
 Matrix Operations
 
 ↓
 
 Version 4.0
+████████████████████
 Desktop GUI
 ```
 
 ---
 
 # 📸 Screenshots
-version 1.0
-![Basic calculator interface showing numeric buttons, operation keys, and a simple result display within the application window](images/basic calculator image 1.png)
-![Basic calculator display with arithmetic functions arranged in a clear layout for entering calculations](images/basic calculator image 2.png)
-Project screenshots will be added after future releases.
 
+Project screenshots will be added after future releases.
+![basic calculator](<images/basic calculator image 1.png>)
+![basic calculator](<images/basic calculator image 2.png>)
+
+```text
+images/
+├── home_screen.png
+├── addition.png
+├── subtraction.png
+├── multiplication.png
+└── division.png
+```
 
 ---
 
@@ -313,7 +326,7 @@ Every future project I build will reflect the lessons learned here.
 
 # 👨‍💻 Author
 
-## Joshitha Sree
+## P Joshitha Sree
 
 🎓 **B.Tech – Electronics & Communication Engineering**
 
@@ -330,9 +343,9 @@ Every future project I build will reflect the lessons learned here.
 
 # 🌟 Connect With Me
 
-**GitHub:** https://github.com/Joshitha-Sree
+**Email:** joashithasree.edu@gmail.com
 
-**linked in:** www.linkedin.com/in/p-joshitha-sree
+**linkedin:** https://www.linkedin.com/in/p-joshitha-sree/
 
 ---
 
@@ -359,4 +372,6 @@ It motivates me to continue learning and building better software.
 ### 🚀 Learn • Build • Improve • Repeat
 
 *"The best way to become a great engineer is to keep building."*
+
+</div>
 
