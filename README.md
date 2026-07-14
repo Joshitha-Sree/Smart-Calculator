@@ -60,7 +60,7 @@ This repository represents the beginning of my long-term engineering portfolio.
 
 - Subtraction
 
-### ✖
+### x
 
 - Multiplication
 
