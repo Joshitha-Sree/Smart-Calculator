@@ -294,8 +294,8 @@ Desktop GUI
 
 # 📸 Screenshots
 version 1.0
-![basic calculator image 1](images/basic calculator image 1.png)
-![basic calculator image 2](images/basic calculator image 2.png)
+![Basic calculator interface showing numeric buttons, operation keys, and a simple result display within the application window](images/basic calculator image 1.png)
+![Basic calculator display with arithmetic functions arranged in a clear layout for entering calculations](images/basic calculator image 2.png)
 Project screenshots will be added after future releases.
 
 
