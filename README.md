@@ -294,9 +294,8 @@ Desktop GUI
 
 # 📸 Screenshots
 version 1.0
-images/basic calculator image 1.png
-images/basic calculator image 2.png
-
+![basic calculator image 1](images/basic calculator image 1.png)
+![basic calculator image 2](images/basic calculator image 2.png)
 Project screenshots will be added after future releases.
 
 
